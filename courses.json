@@ -1,0 +1,114 @@
+{
+    "courses": [
+     
+      {
+        "popular": true,
+        "course_name": "Introduction to Databases",
+        "level": "first level",
+        "semester": "first semester",
+        "course_details": {
+          "title": "Introduction to Databases",
+          "description": "Concepts and principles that underpin how databases work.",
+          "trainer": "Meta Stuff",
+          "course_fee": "$1622",
+          "available_seats": 12,
+          "schedule": "5.00 pm - 7.00 pm",
+          "likes": "881",
+          "category": "Data Science",
+          "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/images/5f93bc943204e2f80f1ea440d26116b3.png?auto=format%2Ccompress&dpr=1&w=562&h=221&q=40&fit=crop",
+          "trainerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/6a/37b602f994459984dc1498e0f6b717/Meta-logo.jpg?auto=format%2Ccompress&dpr=1&w=200&h=200",
+          "tabs": [
+            {
+              "title": "Felipe M.",
+              "content": "To be able to take courses at my own pace and rhythm has been an amazing experience. I can learn whenever it fits my schedule and mood.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Felipe_Moitta.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            },
+            {
+              "title": "Jennifer J.",
+              "content": "I directly applied the concepts and skills I learned from my courses to an exciting new project at work.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Jennifer_John.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            },
+            {
+              "title": "Larry W.",
+              "content": "When I need courses on topics that my university doesn't offer, Coursera is one of the best places to go.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Larry_Tao_Wang_1.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            }
+          ]
+        }
+      },
+
+      {
+        "popular": false,
+        "course_name": "Generative AI for Everyone",
+        "level": "first level",
+        "semester": "first semester",
+        "course_details": {
+          "title": "Complete Investing Course (Stocks, ETFs, Index/Mutual Funds)",
+          "description": "Passive and Active Investing in Stocks, Bonds and Gold. Grow your Wealth by Investing in a well Diversified Portfolio.",
+          "trainer": "Andrew Ng",
+          "course_fee": "$499.99",
+          "available_seats": 2,
+          "schedule": "3.00 pm - 9.00 pm",
+          "likes": "82",
+          "category": "ML",
+          "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/images/f9981360ed304b477666954b42d5586f.png?auto=format%2Ccompress&dpr=1&w=562&h=221&q=40&fit=crop",
+          "trainerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2a/6192a04f1311e7ba12057425631cbc/AndrewNg-Headshot.jpg?auto=format%2Ccompress&dpr=1&w=75&h=75&fit=crop",
+          "tabs": [
+            {
+              "title": "Felipe M.",
+              "content": "To be able to take courses at my own pace and rhythm has been an amazing experience. I can learn whenever it fits my schedule and mood.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Felipe_Moitta.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            },
+            {
+              "title": "Jennifer J.",
+              "content": "I directly applied the concepts and skills I learned from my courses to an exciting new project at work.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Jennifer_John.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            },
+            {
+              "title": "Larry W.",
+              "content": "When I need courses on topics that my university doesn't offer, Coursera is one of the best places to go.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Larry_Tao_Wang_1.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            }
+          ]
+        }
+      },
+      {
+        "popular": false,
+        "course_name": "Learn React",
+        "level": "Second level",
+        "semester": "second semester",
+        "course_details": {
+          "title": "Learn React",
+          "description": "See how employees at top companies are mastering in-demand skills",
+          "trainer": "Bob Ziroll",
+          "course_fee": "$278",
+          "available_seats": 12,
+          "schedule": "8.00 pm - 11.00 pm",
+          "likes": "877",
+          "category": "computer science",
+          "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/images/de1a6556fbe605411e8c1c2ca4ba45f1.png?auto=format%2Ccompress&dpr=1&w=333&h=215&q=40",
+          "trainerImage": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/21/91e2078faf4d3c913664310b8326a4/bob-avatar-square.jpg?auto=format%2Ccompress&dpr=1&w=75&h=75&fit=crop",
+          "tabs": [
+            {
+              "title": "Felipe M.",
+              "content": "To be able to take courses at my own pace and rhythm has been an amazing experience. I can learn whenever it fits my schedule and mood.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Felipe_Moitta.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            },
+            {
+              "title": "Jennifer J.",
+              "content": "I directly applied the concepts and skills I learned from my courses to an exciting new project at work.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Jennifer_John.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            },
+            {
+              "title": "Larry W.",
+              "content": "When I need courses on topics that my university doesn't offer, Coursera is one of the best places to go.",
+              "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/growth_testimonials/passionate_learner/Larry_Tao_Wang_1.png?auto=format%2Ccompress&dpr=1&w=64&h=64&fit=crop"
+            }
+          ]
+        }
+      }
+
+      
+    ]
+  }
+  
